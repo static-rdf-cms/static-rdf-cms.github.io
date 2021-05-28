@@ -16,12 +16,12 @@
         </crm:P37i_was_assigned_by>
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
-    <skos:broader rdf:about="https://rijksmuseum.glitch.me/22041822"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22050954"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22039109"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22032909"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/2203691"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/2203693"/>
+    <skos:broader rdf:resource="https://rijksmuseum.glitch.me/22041822"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22050954"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22039109"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22032909"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/2203691"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/2203693"/>
   </crm:E54_Dimension>
   <crm:E55_Type rdf:about="https://rijksmuseum.glitch.me/220424">
     <crm:P1_is_identified_by>
@@ -40,12 +40,12 @@
         </crm:P37i_was_assigned_by>
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
-    <skos:broader rdf:about="https://rijksmuseum.glitch.me/22041822"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22050954"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22039109"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22032909"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/2203691"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/2203693"/>
+    <skos:broader rdf:resource="https://rijksmuseum.glitch.me/22041822"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22050954"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22039109"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22032909"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/2203691"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/2203693"/>
   </crm:E55_Type>
   <crm:E55_Type rdf:about="https://rijksmuseum.glitch.me/220424">
     <crm:P1_is_identified_by>
@@ -64,11 +64,11 @@
         </crm:P37i_was_assigned_by>
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
-    <skos:broader rdf:about="https://rijksmuseum.glitch.me/22041822"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22050954"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22039109"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/22032909"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/2203691"/>
-    <skos:narrower rdf:about="https://rijksmuseum.glitch.me/2203693"/>
+    <skos:broader rdf:resource="https://rijksmuseum.glitch.me/22041822"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22050954"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22039109"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/22032909"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/2203691"/>
+    <skos:narrower rdf:resource="https://rijksmuseum.glitch.me/2203693"/>
   </crm:E55_Type>
 </rdf:RDF>
