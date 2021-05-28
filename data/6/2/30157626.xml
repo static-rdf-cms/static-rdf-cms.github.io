@@ -1,0 +1,161 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:loc="http://www.loc.gov/MARC21/slim" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:la="https://linked.art/ns/terms/" xmlns:frbroo="http://iflastandards.info/ns/fr/frbr/frbroo/">
+  <frbroo:F24_Publication_Expression rdf:about="https://id-museum-nl.glitch.me/30157626">
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>57626</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404621"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>9040094330</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417443"/>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>9040094322 (pbk)</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417443"/>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>https://id-museum-nl.glitch.me/30157626</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404629"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>(OCoLC)905444030</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404620"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://www.wikidata.org/entity/Q190593"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>10-FFFF=61798</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300435704"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://www.wikidata.org/entity/Q16615911"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>De glorie van de Gouden Eeuw : Nederlandse kunst uit de 17de eeuw : schilderijen, beeldhouwkunst en kunstnijverheid / [auteurs Judikje Kiers, Fieke Tissing; met medew. van Jan Piet Filedt Kok... et al.]</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>366 p. : ill. ; 30 cm.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300435430">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P90_has_value>366</crm:P90_has_value>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300194222"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P90_has_value>30</crm:P90_has_value>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300055644"/>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379100"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+    <crm:P121i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <la:digitally_carried_by>
+          <dig:D1_Digital_Object>
+            <dc:format>text/html</dc:format>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300266277"/>
+            <la:access_point>
+              <dig:D1_Digital_Object rdf:about="https://library.rijksmuseum.nl/cgi-bin/koha/opac-detail.pl?biblionumber=57626"/>
+            </la:access_point>
+          </dig:D1_Digital_Object>
+        </la:digitally_carried_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P121i_is_subject_of>
+    <crm:P67i_is_referred_to_by>
+      <dig:D1_Digital_Object>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300379790"/>
+        <dc:format>application/xml</dc:format>
+        <dcterms:conformsTo>
+          <crm:E73_Infomation_Object rdf:about="https://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd"/>
+        </dcterms:conformsTo>
+        <la:access_point>
+          <dig:D1_Digital_Object rdf:about="https://library.rijksmuseum.nl/cgi-bin/koha/opac-export.pl?op=export&amp;format=marcxml&amp;bib=57626"/>
+        </la:access_point>
+      </dig:D1_Digital_Object>
+    </crm:P67i_is_referred_to_by>
+    <frbroo:R24i_was_created_through>
+      <frbroo:F30_Publication_Event>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by>
+            <crm:P02_has_range rdf:resource="https://id-museum-nl.glitch.me/31060016"/>
+            <crm:P14_1_in_the_role_of rdf:resource="http://vocab.getty.edu/aat/300056110"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by>
+            <crm:P02_has_range rdf:resource="https://id-museum-nl.glitch.me/310113706"/>
+            <crm:P14_1_in_the_role_of rdf:resource="http://vocab.getty.edu/aat/300403974"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P01i_is_domain_of>
+          <crm:PC14_carried_out_by>
+            <crm:P02_has_range rdf:resource="https://id-museum-nl.glitch.me/31035720"/>
+            <crm:P14_1_in_the_role_of rdf:resource="http://vocab.getty.edu/aat/300403974"/>
+          </crm:PC14_carried_out_by>
+        </crm:P01i_is_domain_of>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-01-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2000-12-31T23:59:59Z</crm:P82b_end_of_the_end>
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>2000</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P67i_is_referred_to_by>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Zwolle ; Amsterdam : Waanders ; Rijksmuseum, 2000.</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300311705">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P67i_is_referred_to_by>
+      </frbroo:F30_Publication_Event>
+    </frbroo:R24i_was_created_through>
+  </frbroo:F24_Publication_Expression>
+</rdf:RDF>

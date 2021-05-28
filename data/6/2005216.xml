@@ -1,0 +1,626 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:la="https://linked.art/ns/terms/" xmlns:void="http://rdfs.org/ns/void#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:date="http://exslt.org/dates-and-times">
+  <crm:E22_Human-Made_Object rdf:about="https://id-museum-nl.glitch.me/2005216">
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>https://id-museum-nl.glitch.me/2205216</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404621"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>SK-C-5</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="https://id-museum-nl.glitch.me/21018560"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Officieren en andere schutters van wijk II in Amsterdam, onder leiding van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als ‘De Nachtwacht’</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Officers and other civic guardsmen of District II in Amsterdam, under the command of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch, known as ‘The Night Watch’</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>The company of Captain Frans Banninck Cocq and Lieutenant Willem van Ruytenburch, known as 'The nightwatch'</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P121i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <la:digitally_carried_by>
+          <dig:D1_Digital_Object>
+            <dc:format>text/html</dc:format>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300266277"/>
+            <la:access_point>
+              <dig:D1_Digital_Object rdf:about="https://www.rijksmuseum.nl/en/collection/SK-C-5"/>
+            </la:access_point>
+          </dig:D1_Digital_Object>
+        </la:digitally_carried_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P121i_is_subject_of>
+    <crm:P121i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <la:digitally_carried_by>
+          <dig:D1_Digital_Object>
+            <dc:format>text/html</dc:format>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300266277"/>
+            <la:access_point>
+              <dig:D1_Digital_Object rdf:about="https://www.rijksmuseum.nl/nl/collectie/SK-C-5"/>
+            </la:access_point>
+          </dig:D1_Digital_Object>
+        </la:digitally_carried_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P121i_is_subject_of>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Officieren en andere schutters van wijk II in Amsterdam onder leiding van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, sinds het einde van de 18de eeuw bekend als ‘De Nachtwacht’. Schutters van de Kloveniersdoelen uit een poort naar buiten tredend. Op een schild aangebracht naast de poort staan de namen van de afgebeelde personen: Frans Banning Cocq, heer van purmerlant en Ilpendam, Capiteijn Willem van Ruijtenburch van Vlaerdingen, heer van Vlaerdingen, Lu[ij]tenant, Jan Visscher Cornelisen Vaendrich, Rombout Kemp Sergeant, Reijnier Engelen Sergeant, Barent Harmansen, Jan Adriaensen Keyser, Elbert Willemsen, Jan Clasen Leydeckers, Jan Ockersen, Jan Pietersen bronchorst, Harman Iacobsen wormskerck, Jacob Dircksen de Roy, Jan vander heede, Walich Schellingwou, Jan brugman, Claes van Cruysbergen, Paulus Schoonhoven. De schutters zijn gewapend met onder anderen pieken, musketten en hellebaarden. Rechts de tamboer met een grote trommel. Tussen de soldaten links staat een meisje met een dode kip om haar middel, rechts een blaffende hond. Linksboven de vaandrig met de uitgestoken vaandel.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300411780">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Het korporaalschap van kapitein Frans Banninck Cocq en luitenant Willem van Ruytenburch, bekend als de 'Nachtwacht'. Schutters van de kloveniersdoelen uit een poort naar buiten tredend. Op een schild aangebracht naast de poort staan de namen van de afgebeelde personen: Frans Banning Cocq, heer van purmerlant en Ilpendam, Capiteijn Willem van Ruijtenburch van Vlaerdingen, heer van Vlaerdingen, Lu[ij]tenant, Jan Visscher Cornelisen Vaendrich, Rombout Kemp Sergeant, Reijnier Engelen Sergeant, Barent Harmansen, Jan Adriaensen Keyser, Elbert Willemsen, Jan Clasen Leydeckers, Jan Ockersen, Jan Pietersen bronchorst, Harman Iacobsen wormskerck, Jacob Dircksen de Roy, Jan vander heede, Walich Schellingwou, Jan brugman, Claes van Cruysbergen, Paulus Schoonhoven. De schutters zijn gewapend met lansen, musketten en hellebaarden. Rechts de tamboer met een grote trommel. Tussen de soldaten links staat een meisje met een dode kip om haar middel, rechts een blaffende hond. Linksboven de vaandrig met de uitgestoken vaandel.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300411780">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://id-museum-nl.glitch.me/22021"/>
+        <crm:P90_has_value>379.5</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://id-museum-nl.glitch.me/22022"/>
+        <crm:P90_has_value>453.5</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://id-museum-nl.glitch.me/220424"/>
+        <crm:P90_has_value>337</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300055642"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://id-museum-nl.glitch.me/220424"/>
+        <crm:P90_has_value>170</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300055642"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P45_consists_of rdf:resource="https://id-museum-nl.glitch.me/22019"/>
+    <crm:P45_consists_of rdf:resource="https://id-museum-nl.glitch.me/22018"/>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300435429"/>
+        <crm:P190_has_symbolic_content>olieverf op doek</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P73_has_translation>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>oil on canvas</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P73_has_translation>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301214412"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301239395"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301192481"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301254025"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301262165"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301242195"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301214417"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301209575"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301202294"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301105745"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120478"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120421"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301146195"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301107690"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30166353"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30139183"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120592"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120495"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30177302"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301100494"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301143803"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30199505"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301100934"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30157626"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120988"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120595"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120292"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30157975"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120477"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30111323"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30176680"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30111947"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30139155"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30146565"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30121881"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30121192"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30186047"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120296"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120321"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120261"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301127570"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30137764"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301116753"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30166480"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120493"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301140340"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30131147"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120476"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30159919"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/30122140"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301150290"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120468"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120567"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120759"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301120694"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301147840"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301259401"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301236021"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301259398"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301234479"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154399"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301153927"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301153764"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301233432"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154102"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301153557"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301153927"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154304"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154146"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154339"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154399"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154354"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154102"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154146"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154349"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301153551"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154399"/>
+    <crm:P129i_is_subject_of rdf:resource="https://id-museum-nl.glitch.me/301154350"/>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>De Nachtwacht</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606-1669) olieverf op doek, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Rembrandts beroemdste en grootste schilderij werd gemaakt voor de Kloveniersdoelen. Dit was een van de drie hoofdkwartieren van de Amsterdamse schutterij, de burgerwacht van de stad. Rembrandt was de eerste die op een schuttersstuk alle figuren in actie weergaf. De kapitein, in het zwart, geeft zijn luitenant opdracht dat de compagnie moet gaan marcheren. De schutters stellen zich op. Met behulp van licht vestigde Rembrandt de aandacht op belangrijke details, zoals het handgebaar van de kapitein en het kleine meisje op de voorgrond. Zij is de mascotte van de schutters. De naam Nachtwacht is pas veel later ontstaan, toen men dacht dat het om een nachtelijk tafereel ging.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-02T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-02T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2019-07-02</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Nachtwacht, Schutters van wijk II onder leiding van kapitein Frans Banninck Cocq</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606–1669), olieverf op doek, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Rembrandts beroemdste en grootste doek werd gemaakt voor de Kloveniersdoelen. Dit was een van de verenigingsgebouwen van de Amsterdamse schutterij, de burgerwacht van de stad. Rembrandt was de eerste die op een groepsportret de figuren in actie weergaf. De kapitein, in het zwart, geeft zijn luitenant opdracht dat de compagnie moet gaan marcheren. De schutters stellen zich op. Met behulp
+van licht vestigde Rembrandt de aandacht op belangrijke details, zoals het handgebaar van de kapitein en het kleine meisje op de voorgrond. Zij is de mascotte van de schutters. De naam Nachtwacht is pas veel later ontstaan, toen men dacht dat het om een nachtelijk tafereel ging.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-01T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2019-07-01</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Schutters van wijk II onder leiding van kapitein Frans Banninck Cocq, bekend als de ‘Nachtwacht’</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606–1669), olieverf op doek, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2018-02-27</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Schutters van wijk II onder leiding van kapitein Frans Banninck Cocq, bekend als de ‘Nachtwacht’</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt Harmensz van Rijn (1606–1669), olieverf op doek, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-22T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-22T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2013-05-22</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Rembrandts beroemdste en grootste doek werd gemaakt voor de Kloveniersdoelen. Dit was een van de verenigingsgebouwen van de Amsterdamse schutterij, de burgerwacht van de stad. Alle mannen hadden dienstplicht, maar omdat ieder voor zijn eigen portret moest betalen, zijn alleen de rijkste burgers afgebeeld. 
+Rembrandt was de eerste die op een groepsportret de figuren in actie weergaf. De kapitein, in het zwart, geeft zijn luitenant opdracht dat de compagnie moet gaan marcheren. De schutters stellen zich op. Met behulp van licht vestigde Rembrandt de aandacht op belangrijke details, zoals het handgebaar van de kapitein en het kleine meisje op de achtergrond. Zij is de mascotte van de schutters.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-25T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-25T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2007-01-25</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>The Night Watch</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606-1669) oil on canvas, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Rembrandt's largest and most famous painting was made for one of the three headquarters of Amsterdam's civic guard. These groups of civilian soldiers defended the city from attack. Rembrandt was the first to paint all of the figures in a civic guard piece in action. The captain, dressed in black, gives the order to march out. The guardsmen are getting into formation. Rembrandt used the light to focus on particular details, like the captain's gesturing hand and the young girl in the foreground. She was the company mascot. The nickname Night Watch originated much later, when the painting was thought to represent a nocturnal scene.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-02T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-02T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2019-07-02</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Night Watch, Militia Company of District II under the Command of Captain Frans Banninck Cocq</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606-1669), oil on canvas, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Rembrandt’s largest, most famous canvas was made for the Arquebusiers guild hall. This was one of several halls of Amsterdam’s civic guard, the city’s militia and police. Rembrandt was the first to paint figures in a group portrait actually doing something. The captain, dressed in black, is telling his lieutenant to start the company marching. The guardsmen are getting into formation. Rembrandt used the light to focus on particular details, like the captain’s gesturing hand and the young girl in the foreground. She was the company mascot. The nickname Night Watch originated much later, when the painting was thought to represent a nocturnal scene.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-07-01T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2019-07-01</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Militia Company of District II under the Command of Captain Frans Banninck Cocq, Known as the ‘Night Watch’</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606–1669), oil on canvas, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2018-02-27</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Militia Company of District II under the Command of Captain Frans Banninck Cocq, Known as the ‘Night Watch’</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt Harmensz van Rijn (1606–1669), oil on canvas, 1642</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-22T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-05-22T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2013-05-22</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P65_shows_visual_item>
+      <crm:E36_Visual_Item>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/21094640"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210118877"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121226"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210105457"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121227"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121228"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121229"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121230"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121231"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121232"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121233"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121234"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121235"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/210121236"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/220121290"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/220121289"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/220121288"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/220121287"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/220121286"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/220121074"/>
+        <crm:P138_represents rdf:resource="https://id-museum-nl.glitch.me/22041"/>
+      </crm:E36_Visual_Item>
+    </crm:P65_shows_visual_item>
+  </crm:E22_Human-Made_Object>
+  <void:Dataset>
+    <dcterms:creator rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-27T10:07:22Z</dcterms:modified>
+    <rdf:type rdf:resource="http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object"/>
+    <dig:L11i_was_output_of>
+      <dig:D10_Software_Execution>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300054636"/>
+        <dig:L13_used_parameters>
+          <dig:D1_Digital_Object rdf:about="https://github.com/Rijksmuseum/data-normalisation/blob/main/models/cidoc-crm/200.xslt">
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>v1.0.2</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </dig:D1_Digital_Object>
+        </dig:L13_used_parameters>
+      </dig:D10_Software_Execution>
+    </dig:L11i_was_output_of>
+  </void:Dataset>
+</rdf:RDF>
