@@ -1,5 +1,5 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:loc="http://www.loc.gov/MARC21/slim" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:la="https://linked.art/ns/terms/" xmlns:frbroo="http://iflastandards.info/ns/fr/frbr/frbroo/">
-  <frbroo:F24_Publication_Expression rdf:about="https://id-museum-nl.glitch.me/30157626">
+  <frbroo:F24_Publication_Expression rdf:about="https://rijksmuseum.glitch.me/30157626">
     <crm:P1_is_identified_by>
       <crm:E42_Identifier>
         <crm:P190_has_symbolic_content>57626</crm:P190_has_symbolic_content>
@@ -25,7 +25,7 @@
     </crm:P1_is_identified_by>
     <crm:P1_is_identified_by>
       <crm:E42_Identifier>
-        <crm:P190_has_symbolic_content>https://id-museum-nl.glitch.me/30157626</crm:P190_has_symbolic_content>
+        <crm:P190_has_symbolic_content>https://rijksmuseum.glitch.me/30157626</crm:P190_has_symbolic_content>
         <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404629"/>
         <crm:P37i_was_assigned_by>
           <crm:E15_Identifier_Assignment>
@@ -117,19 +117,19 @@
       <frbroo:F30_Publication_Event>
         <crm:P01i_is_domain_of>
           <crm:PC14_carried_out_by>
-            <crm:P02_has_range rdf:resource="https://id-museum-nl.glitch.me/31060016"/>
+            <crm:P02_has_range rdf:resource="https://rijksmuseum.glitch.me/31060016"/>
             <crm:P14_1_in_the_role_of rdf:resource="http://vocab.getty.edu/aat/300056110"/>
           </crm:PC14_carried_out_by>
         </crm:P01i_is_domain_of>
         <crm:P01i_is_domain_of>
           <crm:PC14_carried_out_by>
-            <crm:P02_has_range rdf:resource="https://id-museum-nl.glitch.me/310113706"/>
+            <crm:P02_has_range rdf:resource="https://rijksmuseum.glitch.me/310113706"/>
             <crm:P14_1_in_the_role_of rdf:resource="http://vocab.getty.edu/aat/300403974"/>
           </crm:PC14_carried_out_by>
         </crm:P01i_is_domain_of>
         <crm:P01i_is_domain_of>
           <crm:PC14_carried_out_by>
-            <crm:P02_has_range rdf:resource="https://id-museum-nl.glitch.me/31035720"/>
+            <crm:P02_has_range rdf:resource="https://rijksmuseum.glitch.me/31035720"/>
             <crm:P14_1_in_the_role_of rdf:resource="http://vocab.getty.edu/aat/300403974"/>
           </crm:PC14_carried_out_by>
         </crm:P01i_is_domain_of>
