@@ -1,0 +1,124 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:la="https://linked.art/ns/terms/">
+  <crm:E53_Place rdf:about="https://rijksmuseum.glitch.me/22022483">
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Overijssel</crm:P190_has_symbolic_content>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>http://hdl.handle.net/10934/RM0001.THESAU.22483</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404621"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P89_falls_within rdf:resource="https://rijksmuseum.glitch.me/22017"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22024499"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22052983"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220558400"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22064448"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22053260"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22097263"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22058096"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22093856"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22051140"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22064825"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/2205199"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22064270"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220563996"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220569062"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22053599"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220567641"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220569010"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055745"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22094417"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22058722"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220551466"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/2204648"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22081499"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055594"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22022488"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22066418"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22058351"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22058093"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22052366"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220562466"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220108531"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22058293"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220569230"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22053655"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22022525"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220559920"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22057515"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22068131"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049542"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220569039"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22057611"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22066420"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22066023"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220148694"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055316"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22022442"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220118488"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22064168"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22091360"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220548041"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220567509"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22051137"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22057979"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22052110"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22064826"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055155"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22053240"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220110466"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22093299"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220560989"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22058734"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22057118"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220563898"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220565320"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22053034"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22022492"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22051912"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22054765"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22032896"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22022487"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055344"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220118677"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22052944"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22091546"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055930"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220548801"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049735"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220100911"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220567514"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049039"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220148968"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049577"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049745"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22032843"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22032230"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22055169"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22059334"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220103565"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22050016"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22065657"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220559117"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22056727"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22066260"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22056411"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22052859"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220120959"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220552317"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220564240"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220569500"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/220552316"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/2206440"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/2204372"/>
+    <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22053191"/>
+  </crm:E53_Place>
+</rdf:RDF>
