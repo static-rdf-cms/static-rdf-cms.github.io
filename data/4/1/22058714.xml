@@ -32,5 +32,8 @@
     <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22066866"/>
     <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049779"/>
     <crm:P89i_contains rdf:resource="https://rijksmuseum.glitch.me/22049034"/>
+    <la:equivalent>
+      <crm:E53_Place rdf:about="http://sws.geonames.org/3319179/"/>
+    </la:equivalent>
   </crm:E53_Place>
 </rdf:RDF>

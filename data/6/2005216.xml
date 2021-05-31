@@ -603,11 +603,28 @@ Rembrandt was de eerste die op een groepsportret de figuren in actie weergaf. De
         <crm:P138_represents rdf:resource="https://rijksmuseum.glitch.me/22041"/>
       </crm:E36_Visual_Item>
     </crm:P65_shows_visual_item>
+    <crm:P108i_was_produced_by>
+      <crm:E12_Production>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1642-01-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1642-12-31T23:59:59Z</crm:P82b_end_of_the_end>
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>1642</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P14_carried_out_by rdf:resource="https://rijksmuseum.glitch.me/2105706"/>
+        <crm:P7_took_place_at rdf:resource="https://rijksmuseum.glitch.me/22041"/>
+      </crm:E12_Production>
+    </crm:P108i_was_produced_by>
   </crm:E22_Human-Made_Object>
   <void:Dataset rdf:about="https://rijksmuseum.glitch.me/2005216.xml">
     <dig:L43_annotates rdf:resource="https://rijksmuseum.glitch.me/2005216"/>
     <dcterms:creator rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
-    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-28T12:10:23Z</dcterms:modified>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-05-31T17:30:21+02:00</dcterms:modified>
     <rdf:type rdf:resource="http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object"/>
     <dig:L11i_was_output_of>
       <dig:D10_Software_Execution>
@@ -616,7 +633,7 @@ Rembrandt was de eerste die op een groepsportret de figuren in actie weergaf. De
           <dig:D1_Digital_Object rdf:about="https://github.com/Rijksmuseum/data-normalisation/blob/main/models/cidoc-crm/200.xslt">
             <crm:P1_is_identified_by>
               <crm:E33_E41_Linguistic_Appellation>
-                <crm:P190_has_symbolic_content>v1.0.2</crm:P190_has_symbolic_content>
+                <crm:P190_has_symbolic_content>v1.0.3</crm:P190_has_symbolic_content>
               </crm:E33_E41_Linguistic_Appellation>
             </crm:P1_is_identified_by>
           </dig:D1_Digital_Object>

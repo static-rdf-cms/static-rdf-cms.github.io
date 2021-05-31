@@ -17,6 +17,9 @@
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
     <crm:P89_falls_within rdf:resource="https://rijksmuseum.glitch.me/22041"/>
+    <la:equivalent>
+      <crm:E53_Place rdf:about="https://www.wikidata.org/entity/Q2252756"/>
+    </la:equivalent>
   </crm:E53_Place>
   <crm:E53_Place rdf:about="https://rijksmuseum.glitch.me/22069150">
     <crm:P1_is_identified_by>
@@ -36,5 +39,8 @@
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
     <crm:P89_falls_within rdf:resource="https://rijksmuseum.glitch.me/22041"/>
+    <la:equivalent>
+      <crm:E53_Place rdf:about="https://www.wikidata.org/entity/Q2252756"/>
+    </la:equivalent>
   </crm:E53_Place>
 </rdf:RDF>

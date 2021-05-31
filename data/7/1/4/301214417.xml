@@ -71,6 +71,9 @@
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
     <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/31094826"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/320131838"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/320130611"/>
     <crm:P121i_is_subject_of>
       <crm:E33_Linguistic_Object>
         <la:digitally_carried_by>

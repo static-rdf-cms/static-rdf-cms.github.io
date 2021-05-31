@@ -1,0 +1,9 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/">
+  <crm:E39_Actor rdf:about="https://rijksmuseum.glitch.me/210121236">
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Heede, Jan van der</crm:P190_has_symbolic_content>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+  </crm:E39_Actor>
+</rdf:RDF>

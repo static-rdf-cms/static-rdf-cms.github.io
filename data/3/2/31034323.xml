@@ -1,0 +1,65 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:str="http://exslt.org/strings" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:loc="http://www.loc.gov/MARC21/slim" xmlns:la="https://linked.art/ns/terms/">
+  <crm:E21_Person rdf:about="https://rijksmuseum.glitch.me/31034323">
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Fabritius, Carel, 1622-1654</crm:P190_has_symbolic_content>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Fabritius, Carel</crm:P190_has_symbolic_content>
+        <crm:P106_is_composed_of>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Fabritius</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404652"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P106_is_composed_of>
+        <crm:P106_is_composed_of>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Carel</crm:P190_has_symbolic_content>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404651"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P106_is_composed_of>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P129i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Nationaliteit: Nederland</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+      </crm:E33_Linguistic_Object>
+    </crm:P129i_is_subject_of>
+    <la:equivalent rdf:resource="http://www.wikidata.org/entity/Q352954"/>
+    <la:equivalent rdf:resource="http://vocab.getty.edu/ulan/500115445"/>
+    <la:equivalent rdf:resource="http://viaf.org/viaf/79399074"/>
+    <crm:P98i_was_born>
+      <crm:E67_Birth>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1622-01-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1622-12-31T23:59:59Z</crm:P82b_end_of_the_end>
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>1622</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+      </crm:E67_Birth>
+    </crm:P98i_was_born>
+    <crm:P100i_died_in>
+      <crm:E69_Death>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1654-01-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1654-12-31T23:59:59Z</crm:P82b_end_of_the_end>
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>1654</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+      </crm:E69_Death>
+    </crm:P100i_died_in>
+  </crm:E21_Person>
+</rdf:RDF>

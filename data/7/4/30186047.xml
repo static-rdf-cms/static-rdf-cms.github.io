@@ -81,6 +81,9 @@
         <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379100"/>
       </crm:E54_Dimension>
     </crm:P43_has_dimension>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/320127177"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/320128992"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/320126584"/>
     <crm:P121i_is_subject_of>
       <crm:E33_Linguistic_Object>
         <la:digitally_carried_by>

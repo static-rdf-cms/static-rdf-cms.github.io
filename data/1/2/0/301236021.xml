@@ -52,6 +52,9 @@
       </crm:E33_Linguistic_Object>
     </crm:P67i_is_referred_to_by>
     <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/31094826"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/310166234"/>
+    <crm:P129_is_about rdf:resource="https://rijksmuseum.glitch.me/320126584"/>
     <crm:P121i_is_subject_of>
       <crm:E33_Linguistic_Object>
         <la:digitally_carried_by>

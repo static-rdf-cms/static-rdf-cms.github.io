@@ -17,5 +17,8 @@
       </crm:E42_Identifier>
     </crm:P1_is_identified_by>
     <skos:broader rdf:resource="https://rijksmuseum.glitch.me/22041"/>
+    <la:equivalent>
+      <crm:E7_Activity rdf:about="https://www.wikidata.org/entity/Q2289998"/>
+    </la:equivalent>
   </crm:E7_Activity>
 </rdf:RDF>

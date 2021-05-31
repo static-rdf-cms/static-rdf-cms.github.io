@@ -1,0 +1,70 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:loc="http://www.loc.gov/MARC21/slim" xmlns:la="https://linked.art/ns/terms/">
+  <crm:E53_Place rdf:about="https://rijksmuseum.glitch.me/330133601">
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Amsterdam</crm:P190_has_symbolic_content>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P129i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Volledige term: Nederland:Noord-Holland:Amsterdam</crm:P190_has_symbolic_content>
+        <crm:P72_has_language>
+          <crm:E56_Language rdf:about="http://vocab.getty.edu/aat/300388256"/>
+        </crm:P72_has_language>
+      </crm:E33_Linguistic_Object>
+    </crm:P129i_is_subject_of>
+    <crm:P89_falls_within rdf:resource="136258"/>
+    <crm:P89i_contains rdf:resource="133599"/>
+    <crm:P89i_contains rdf:resource="174877"/>
+    <crm:P89i_contains rdf:resource="144097"/>
+    <crm:P89i_contains rdf:resource="134427"/>
+    <crm:P89i_contains rdf:resource="134436"/>
+    <crm:P89i_contains rdf:resource="134960"/>
+    <crm:P89i_contains rdf:resource="135086"/>
+    <crm:P89i_contains rdf:resource="135199"/>
+    <crm:P89i_contains rdf:resource="135225"/>
+    <crm:P89i_contains rdf:resource="135287"/>
+    <crm:P89i_contains rdf:resource="135310"/>
+    <crm:P89i_contains rdf:resource="135327"/>
+    <crm:P89i_contains rdf:resource="135368"/>
+    <crm:P89i_contains rdf:resource="133602"/>
+    <crm:P89i_contains rdf:resource="135377"/>
+    <crm:P89i_contains rdf:resource="192705"/>
+    <crm:P89i_contains rdf:resource="194295"/>
+    <crm:P89i_contains rdf:resource="136111"/>
+    <crm:P89i_contains rdf:resource="136235"/>
+    <crm:P89i_contains rdf:resource="146978"/>
+    <crm:P89i_contains rdf:resource="136384"/>
+    <crm:P89i_contains rdf:resource="136430"/>
+    <crm:P89i_contains rdf:resource="136558"/>
+    <crm:P89i_contains rdf:resource="136560"/>
+    <crm:P89i_contains rdf:resource="136646"/>
+    <crm:P89i_contains rdf:resource="136725"/>
+    <crm:P89i_contains rdf:resource="136787"/>
+    <crm:P89i_contains rdf:resource="133603"/>
+    <crm:P89i_contains rdf:resource="137008"/>
+    <crm:P89i_contains rdf:resource="137131"/>
+    <crm:P89i_contains rdf:resource="137132"/>
+    <crm:P89i_contains rdf:resource="137205"/>
+    <crm:P89i_contains rdf:resource="137339"/>
+    <crm:P89i_contains rdf:resource="137567"/>
+    <crm:P89i_contains rdf:resource="137644"/>
+    <crm:P89i_contains rdf:resource="187643"/>
+    <crm:P89i_contains rdf:resource="137772"/>
+    <crm:P89i_contains rdf:resource="137806"/>
+    <crm:P89i_contains rdf:resource="137829"/>
+    <crm:P89i_contains rdf:resource="133604"/>
+    <crm:P89i_contains rdf:resource="137863"/>
+    <crm:P89i_contains rdf:resource="137929"/>
+    <crm:P89i_contains rdf:resource="138037"/>
+    <crm:P89i_contains rdf:resource="165099"/>
+    <crm:P89i_contains rdf:resource="144177"/>
+    <crm:P89i_contains rdf:resource="133912"/>
+    <crm:P89i_contains rdf:resource="133937"/>
+    <crm:P89i_contains rdf:resource="134100"/>
+    <crm:P89i_contains rdf:resource="134101"/>
+    <crm:P89i_contains rdf:resource="134378"/>
+    <crm:P89i_contains rdf:resource="138105"/>
+    <crm:P89i_contains rdf:resource="144452"/>
+  </crm:E53_Place>
+</rdf:RDF>

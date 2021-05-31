@@ -1,0 +1,23 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:loc="http://www.loc.gov/MARC21/slim" xmlns:la="https://linked.art/ns/terms/">
+  <crm:E53_Place rdf:about="https://rijksmuseum.glitch.me/330136162">
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Nederland</crm:P190_has_symbolic_content>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P89i_contains rdf:resource="134554"/>
+    <crm:P89i_contains rdf:resource="134721"/>
+    <crm:P89i_contains rdf:resource="137603"/>
+    <crm:P89i_contains rdf:resource="137790"/>
+    <crm:P89i_contains rdf:resource="138001"/>
+    <crm:P89i_contains rdf:resource="138034"/>
+    <crm:P89i_contains rdf:resource="134765"/>
+    <crm:P89i_contains rdf:resource="134811"/>
+    <crm:P89i_contains rdf:resource="134915"/>
+    <crm:P89i_contains rdf:resource="135203"/>
+    <crm:P89i_contains rdf:resource="135673"/>
+    <crm:P89i_contains rdf:resource="136257"/>
+    <crm:P89i_contains rdf:resource="136258"/>
+    <crm:P89i_contains rdf:resource="136442"/>
+  </crm:E53_Place>
+</rdf:RDF>
