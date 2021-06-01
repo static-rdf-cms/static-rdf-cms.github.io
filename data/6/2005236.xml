@@ -1,0 +1,492 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/" xmlns:dig="http://www.ics.forth.gr/isl/CRMdig/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:la="https://linked.art/ns/terms/" xmlns:void="http://rdfs.org/ns/void#" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:date="http://exslt.org/dates-and-times">
+  <crm:E22_Human-Made_Object rdf:about="https://rijksmuseum.glitch.me/2005236">
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>https://rijksmuseum.glitch.me/2205236</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300404621"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E42_Identifier>
+        <crm:P190_has_symbolic_content>SK-A-4691</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300312355"/>
+        <crm:P37i_was_assigned_by>
+          <crm:E15_Identifier_Assignment>
+            <crm:P14_carried_out_by rdf:resource="https://rijksmuseum.glitch.me/21018560"/>
+          </crm:E15_Identifier_Assignment>
+        </crm:P37i_was_assigned_by>
+      </crm:E42_Identifier>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Zelfportret</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Self Portrait</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Zelfportret op jeugdige leeftijd</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P1_is_identified_by>
+      <crm:E33_E41_Linguistic_Appellation>
+        <crm:P190_has_symbolic_content>Self-Portrait at an Early Age</crm:P190_has_symbolic_content>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300417193"/>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+      </crm:E33_E41_Linguistic_Appellation>
+    </crm:P1_is_identified_by>
+    <crm:P121i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <la:digitally_carried_by>
+          <dig:D1_Digital_Object>
+            <dc:format>text/html</dc:format>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300266277"/>
+            <la:access_point>
+              <dig:D1_Digital_Object rdf:about="https://www.rijksmuseum.nl/en/collection/SK-A-4691"/>
+            </la:access_point>
+          </dig:D1_Digital_Object>
+        </la:digitally_carried_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P121i_is_subject_of>
+    <crm:P121i_is_subject_of>
+      <crm:E33_Linguistic_Object>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <la:digitally_carried_by>
+          <dig:D1_Digital_Object>
+            <dc:format>text/html</dc:format>
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300266277"/>
+            <la:access_point>
+              <dig:D1_Digital_Object rdf:about="https://www.rijksmuseum.nl/nl/collectie/SK-A-4691"/>
+            </la:access_point>
+          </dig:D1_Digital_Object>
+        </la:digitally_carried_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P121i_is_subject_of>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Zelfportret van Rembrandt op jeugdige leeftijd. Buste naar rechts, het gelaat in de schaduw, met krullend haar.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300411780">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://rijksmuseum.glitch.me/22021"/>
+        <crm:P90_has_value>22.6</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://rijksmuseum.glitch.me/22022"/>
+        <crm:P90_has_value>18.7</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://rijksmuseum.glitch.me/22021"/>
+        <crm:P90_has_value>33.2</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://rijksmuseum.glitch.me/22022"/>
+        <crm:P90_has_value>29.3</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P43_has_dimension>
+      <crm:E54_Dimension>
+        <crm:P2_has_type rdf:resource="https://rijksmuseum.glitch.me/2206"/>
+        <crm:P90_has_value>5.9</crm:P90_has_value>
+        <crm:P91_has_unit rdf:resource="http://vocab.getty.edu/aat/300379098"/>
+      </crm:E54_Dimension>
+    </crm:P43_has_dimension>
+    <crm:P45_consists_of rdf:resource="https://rijksmuseum.glitch.me/220273"/>
+    <crm:P45_consists_of rdf:resource="https://rijksmuseum.glitch.me/22018"/>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300435429"/>
+        <crm:P190_has_symbolic_content>olieverf op paneel</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P73_has_translation>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>oil on panel</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+          </crm:E33_Linguistic_Object>
+        </crm:P73_has_translation>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301283482"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301283486"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301241048"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301105745"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/3011738"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301100934"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/3015254"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/30131147"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301154666"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301200904"/>
+    <crm:P129i_is_subject_of rdf:resource="https://rijksmuseum.glitch.me/301303749"/>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Zelfportret</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>olieverf op paneel, ca. 1628</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Onervaren als hij is, schuwt de jonge Rembrandt het experiment niet. Hier laat hij het licht langs zijn rechterwang schampen, de rest van zijn gezicht is in schaduwen gehuld. Het duurt even voordat je beseft dat hij je scherp aankijkt. Om de krullen in zijn wilde haardos te accentueren,
+tekende hij met de achterkant van zijn penseel in de nog natte verf.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-22T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-22T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2019-02-22</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Zelfportret</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606–1669), olieverf op paneel, ca. 1628</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Onervaren als hij was, schuwde de jonge Rembrandt het experiment niet. Hier liet hij het licht langs zijn rechterwang schampen. De rest van het gezicht is in schaduwen gehuld. Het duurt even voordat je beseft dat de kunstenaar je scherp aankijkt. Met de achterkant van zijn penseel tekende Rembrandt in de nog natte verflaag, om zo de krullen in zijn wilde haardos te accentueren.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2018-02-27</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Zelfportret</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt Harmensz van Rijn (1606–1669), olieverf op paneel, ca. 1628</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Onervaren als hij was, schuwde de jonge Rembrandt het experiment niet. Hier liet hij het licht langs zijn rechterwang schampen. De rest van het gezicht is in schaduwen gehuld. Het duurt even voordat je beseft dat de kunstenaar je scherp aankijkt. Met de achterkant van zijn penseel tekende Rembrandt in de nog natte verflaag, om zo de krullen in zijn wilde haardos te accentueren.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-08T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-08T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2013-04-08</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Dit is een van de eerste keren dat Rembrandt zichzelf weergaf - hij was ongeveer 22 jaar oud. Uitzonderlijk is dat hij het licht van achteren liet komen, waardoor zijn gezicht in de schaduw is. Ook gaf hij zijn krullen op experimentele wijze weer: met de achterkant van zijn penseel kraste hij in de nog natte verf, waardoor de onderlaag tevoorschijn kwam.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-18T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2007-01-18T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2007-01-18</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P190_has_symbolic_content>Rembrandt Harmensz van Rijn (1606 - 1669). Zelfportret op jeugdige leeftijd, ca. 1628. Dit is een van de eerste keren dat Rembrandt zichzelf weer gaf - hij was ongeveer 22 jaar. Hij schilderde zichzelf in een sterk licht dat van achteren komt. Het gezicht is in de schaduw nauwelijks te zien. Opvallend is ook de experimentele manier waar op de kr ullen zijn weer gegeven: Rembrandt kraste in de nog natte verf, waar door de onderlaag tevoorschijn kwam. Aankoop 1977 van D.H. Cevat (Guernsey), met steun van de Vereniging Rembrandt, Prins Bernhard Fonds, het Rijk en Fotocommissie.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388256"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-05-14T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2004-05-14T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2004-05-14</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Self-portrait</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>oil on panel, c. 1628</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>As inexperienced as he is, the young Rembrandt does not shy away from experimenting. Here the light rakes his right cheek while the rest of his face is enveloped in shadow. It takes a moment to realize that he is peering out at you. Rembrandt accentuated the curls of his tousled hair by drawing in the wet paint with the butt end of his paintbrush.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-22T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-22T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2019-02-22</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Self-portrait</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt van Rijn (1606–1669), oil on panel, c. 1628</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Even as an inexperienced young artist, Rembrandt did not shy away from experimenting. Here the light glances along his right cheek, while the rest of his face is veiled in shadow. It takes a while to realize that the artist is gazing intently out at us. Using the butt end of his brush,  Rembrandt made scratches in the still wet paint to accentuate the curls of his tousled hair.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2018-02-27T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2018-02-27</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P67i_is_referred_to_by>
+      <crm:E33_Linguistic_Object>
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>Self-portrait</crm:P190_has_symbolic_content>
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+        <crm:P46_is_composed_of>
+          <crm:E33_Linguistic_Object>
+            <crm:P190_has_symbolic_content>Rembrandt Harmensz van Rijn (1606–1669), oil on panel, c. 1628</crm:P190_has_symbolic_content>
+            <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300191074">
+                <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+          </crm:E33_Linguistic_Object>
+        </crm:P46_is_composed_of>
+        <crm:P190_has_symbolic_content>Even as an inexperienced young artist, Rembrandt did not shy away from experimenting. Here the light glances along his right cheek, while the rest of his face is veiled in shadow. It takes a while to realize that the artist is gazing intently out at us. Using the butt end of his brush, Rembrandt made scratches in the still wet paint to accentuate the curls of his tousled hair.</crm:P190_has_symbolic_content>
+        <crm:P72_has_language rdf:resource="http://vocab.getty.edu/aat/300388277"/>
+        <crm:P94i_was_created_by>
+          <crm:E65_Creation>
+            <crm:P4_has_time-span>
+              <crm:E52_Time-Span>
+                <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-08T00:00:00Z</crm:P82a_begin_of_the_begin>
+                <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2013-04-08T23:59:59Z</crm:P82b_end_of_the_end>
+                <crm:P1_is_identified_by>
+                  <crm:E33_E41_Linguistic_Appellation>
+                    <crm:P190_has_symbolic_content>2013-04-08</crm:P190_has_symbolic_content>
+                  </crm:E33_E41_Linguistic_Appellation>
+                </crm:P1_is_identified_by>
+              </crm:E52_Time-Span>
+            </crm:P4_has_time-span>
+          </crm:E65_Creation>
+        </crm:P94i_was_created_by>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300312074">
+            <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300418049"/>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+      </crm:E33_Linguistic_Object>
+    </crm:P67i_is_referred_to_by>
+    <crm:P65_shows_visual_item>
+      <crm:E36_Visual_Item>
+        <crm:P138_represents rdf:resource="https://rijksmuseum.glitch.me/2105706"/>
+        <crm:P138_represents rdf:resource="https://rijksmuseum.glitch.me/220121311"/>
+      </crm:E36_Visual_Item>
+    </crm:P65_shows_visual_item>
+    <crm:P108i_was_produced_by>
+      <crm:E12_Production>
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1628-01-01T00:00:00Z</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">1628-12-31T23:59:59Z</crm:P82b_end_of_the_end>
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>1628</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+        <crm:P14_carried_out_by rdf:resource="https://rijksmuseum.glitch.me/2105706"/>
+      </crm:E12_Production>
+    </crm:P108i_was_produced_by>
+  </crm:E22_Human-Made_Object>
+  <void:Dataset rdf:about="https://rijksmuseum.glitch.me/2005236.xml">
+    <dig:L43_annotates rdf:resource="https://rijksmuseum.glitch.me/2005236"/>
+    <dcterms:creator rdf:resource="http://vocab.getty.edu/ulan/500246547"/>
+    <dcterms:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2021-06-01T09:08:17Z</dcterms:modified>
+    <rdf:type rdf:resource="http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object"/>
+    <dig:L11i_was_output_of>
+      <dig:D10_Software_Execution>
+        <crm:P2_has_type rdf:resource="http://vocab.getty.edu/aat/300054636"/>
+        <dig:L13_used_parameters>
+          <dig:D1_Digital_Object rdf:about="https://github.com/Rijksmuseum/data-normalisation/blob/main/models/cidoc-crm/200.xslt">
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>v1.0.3</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+          </dig:D1_Digital_Object>
+        </dig:L13_used_parameters>
+      </dig:D10_Software_Execution>
+    </dig:L11i_was_output_of>
+  </void:Dataset>
+</rdf:RDF>

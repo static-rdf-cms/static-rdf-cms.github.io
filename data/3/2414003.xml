@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:crm="http://www.cidoc-crm.org/cidoc-crm/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:la="https://linked.art/ns/terms/"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+  <rdf:Description rdf:about="https://rijksmuseum.glitch.me/2414003">
+    <rdf:type rdf:resource="http://www.cidoc-crm.org/cidoc-crm/E89_Propositional_Object"/>
+    <crm:P2_has_type>
+      <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300417531">
+        <rdfs:label>Exhibition concept</rdfs:label>
+      </crm:E55_Type>
+    </crm:P2_has_type>
+
+    <crm:P17i_motivated>
+      <crm:E7_Actvity>
+        <crm:P2_has_type>
+          <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300054766">
+            <rdfs:label>Exhibiting activity</rdfs:label>
+          </crm:E55_Type>
+        </crm:P2_has_type>
+
+        <crm:P4_has_time-span>
+          <crm:E52_Time-Span>
+            <crm:P82a_begin_of_the_begin rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-15T00:00:00Z</crm:P82a_begin_of_the_begin>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-06-30T23:59:59Z</crm:P82b_end_of_the_end>
+            <crm:P1_is_identified_by>
+              <crm:E33_E41_Linguistic_Appellation>
+                <crm:P190_has_symbolic_content>15 February to 10 June 2019</crm:P190_has_symbolic_content>
+              </crm:E33_E41_Linguistic_Appellation>
+            </crm:P1_is_identified_by>
+
+          </crm:E52_Time-Span>
+        </crm:P4_has_time-span>
+
+        <crm:P1_is_identified_by>
+          <crm:E33_E41_Linguistic_Appellation>
+            <crm:P190_has_symbolic_content>All the Rembrandts</crm:P190_has_symbolic_content>
+            <crm:P2_has_type>
+              <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300404670">
+                <rdfs:label>Primary name</rdfs:label>
+              </crm:E55_Type>
+            </crm:P2_has_type>
+
+          </crm:E33_E41_Linguistic_Appellation>
+        </crm:P1_is_identified_by>
+
+        <crm:P7_took_place_at rdf:resource="https://rijksmuseum.glitch.me/2105706"/>
+        <crm:P14_carried_out_by rdf:resource="https://rijksmuseum.glitch.me/2105706"/>
+        <crm:P16_used_specific_object>
+          <rdf:Description>
+            <rdf:type rdf:resource="https://linked.art/ns/terms/Set"/>
+            <la:member rdf:resource="https://rijksmuseum.glitch.me/2005216"/>
+            <la:member rdf:resource="https://rijksmuseum.glitch.me/2005236"/>
+          </rdf:Description>
+        </crm:P16_used_specific_object>
+
+        <crm:P121i_is_subject_of>
+          <crm:E33_Linguistic_Object>
+            <la:digitally_carried_by>
+              <rdf:Description>
+                <rdf:type rdf:resource="http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object"/>
+                <crm:P2_has_type>
+                  <crm:E55_Type rdf:about="http://vocab.getty.edu/aat/300266277">
+                    <rdfs:label>Homepage</rdfs:label>
+                  </crm:E55_Type>
+                </crm:P2_has_type>
+
+                <dc:format>text/html</dc:format>
+                <la:access_point>
+                  <rdf:Description rdf:about="https://www.rijksmuseum.nl/en/whats-on/exhibitions/past/all-the-rembrandts">
+                    <rdf:type rdf:resource="http://www.ics.forth.gr/isl/CRMdig/D1_Digital_Object"/>
+                  </rdf:Description>
+                </la:access_point>
+
+              </rdf:Description>
+            </la:digitally_carried_by>
+
+          </crm:E33_Linguistic_Object>
+        </crm:P121i_is_subject_of>
+
+      </crm:E7_Actvity>
+    </crm:P17i_motivated>
+
+    <crm:P94i_was_created_by>
+      <crm:E65_Creation>
+        <crm:P14_carried_out_by rdf:resource="https://rijksmuseum.glitch.me/2105706"/>
+        <crm:P4_has_time-span>
+          <crm:EP52_Time-Span>
+            <crm:P82b_end_of_the_end rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2019-02-14T23:59:59Z</crm:P82b_end_of_the_end>
+          </crm:EP52_Time-Span>
+        </crm:P4_has_time-span>
+
+      </crm:E65_Creation>
+    </crm:P94i_was_created_by>
+
+  </rdf:Description>
+
+</rdf:RDF>
